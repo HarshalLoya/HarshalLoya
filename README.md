@@ -61,10 +61,6 @@ I’m a Data Science undergrad based in Mumbai, originally from a small town —
 ✅ 93.69% accuracy, Flask-based UI  
 📎 [Repo](https://github.com/HarshalLoya/Malicious-URL-Detector)
 
-### 📈 Crypto Forecasting Web App  
-> Predicts closing prices of cryptocurrencies for 60 days  
-✅ Built with Facebook Prophet, Plotly, and Flask  
-📎 [Repo](https://github.com/HarshalLoya/Crypto-Forecasting-WebApp)
 
 ### ✈️ AI-Powered Travel Planner  
 > AI-based itinerary generator using LangChain + Gradio  
