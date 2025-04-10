@@ -16,7 +16,7 @@ I’m a Data Science undergrad based in Mumbai, originally from a small town —
 - 🎯 Goal: Build scalable systems that make an impact  
 - 🌐 Always exploring new frameworks, models & ideas  
 
-📫 Reach me at **loyaharshal252@gmail.com** or connect below!
+📫 Reach me at **hashal.loya@yahoo.com** or connect below!
 
 ---
 
