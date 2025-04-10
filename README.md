@@ -56,6 +56,12 @@ I’m a Data Science undergrad based in Mumbai, originally from a small town —
 
 ## 📌 Featured Projects
 
+### 🤖🗣 Multi AI Agent Debate System  
+> Real-time AI debate simulation platform  
+✅ Multi-round debates, word by word streaming animation  
+📊Fixed scoreboard, Streamlit based UI  
+📎 [Repo](https://github.com/HarshalLoya/Multi-AI-Agent-Debate-System)
+
 ### 🔐 Malicious URL Detection  
 > Real-time threat analysis app using ML  
 ✅ 93.69% accuracy, Flask-based UI  
