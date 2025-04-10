@@ -116,7 +116,6 @@ I’m a Data Science undergrad based in Mumbai, originally from a small town —
 
 - ✅ **AWS Cloud Architect** – Hands-on with EC2, RDS, S3  
 - ✅ **Process Mining with Celonis** – Analyzed inefficiencies, proposed optimization  
-- ✅ **Deep Learning Specialization** – Coursera (in-progress)
 
 ---
 
