@@ -56,7 +56,7 @@ I’m a Data Science undergrad based in Mumbai, originally from a small town —
 📎 [Repo](https://github.com/HarshalLoya/Multi-AI-Agent-Debate-System)
 
 ### 💸 LoanDefaul Navigator 
-> Complete ML pipeline for credit risk assessment
+> Complete ML pipeline for credit risk assessment  
 ✅ 0.65 ROC, Flask-based UI  
 📎 [Repo](https://github.com/HarshalLoya/Loan-Risk-Scoring-Model)
 
